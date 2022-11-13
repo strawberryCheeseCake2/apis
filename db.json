@@ -3,14 +3,14 @@
     {
       "id": 0,
       "src": "/assets/amazing-views-icon.jpg",
-      "route": "amazing-views",
-      "name": "Amazing views"
+      "category": "amazing-views",
+      "title": "Amazing views"
     },
     {
       "id": 1,
       "src": "/assets/beach-icon.jpg",
-      "route": "beach",
-      "name": "Beach"
+      "category": "beach",
+      "title": "Beach"
     }
   ]
 }
