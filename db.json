@@ -12,5 +12,25 @@
       "category": "beach",
       "title": "Beach"
     }
+  ],
+  "rooms": [
+    {
+      "id": 0,
+      "location": "Jeju, South Korea",
+      "category": "amazing-views",
+      "price": "50"
+    },
+    {
+      "id": 1,
+      "location": "Vancouver, Canada",
+      "category": "beach",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "location": "Toronto, Canada",
+      "category": "amazing-views",
+      "price": "150"
+    },
   ]
 }
