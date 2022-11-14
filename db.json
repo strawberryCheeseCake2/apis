@@ -40,21 +40,21 @@
       "location": "Location 3",
       "category": 0,
       "price": 200,
-      "src": "https://picsum.photos/500"
+      "src": "https://picsum.photos/id/27/500"
     },
     {
       "id": 4,
       "location": "Location 4",
       "category": 1,
       "price": 250,
-      "src": "https://picsum.photos/500"
+      "src": "https://picsum.photos/id/28/500"
     },
     {
       "id": 5,
       "location": "Location 5",
       "category": 0,
       "price": 300,
-      "src": "https://picsum.photos/500"
+      "src": "https://picsum.photos/id/29500"
     }
   ]
 }
