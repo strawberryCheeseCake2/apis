@@ -98,5 +98,20 @@
       "price": 300,
       "src": "https://picsum.photos/id/81/500"
     }
+  ],
+  "wishlist": [ 
+    {
+      "id": 10,
+      "location": "Location 10",
+      "category": 1,
+      "price": 250,
+      "src": "https://picsum.photos/id/85/500"
+    },
+          "id": 0,
+      "location": "Jeju, South Korea",
+      "category": 0,
+      "price": 50,
+      "src": "/assets/thumbnails/jeju_thumbnail1.jpg"
+    }
   ]
 }
