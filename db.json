@@ -107,7 +107,8 @@
       "price": 250,
       "src": "https://picsum.photos/id/85/500"
     },
-          "id": 0,
+    {
+      "id": 0,
       "location": "Jeju, South Korea",
       "category": 0,
       "price": 50,
